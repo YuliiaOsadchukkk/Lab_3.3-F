@@ -1,0 +1,6 @@
+﻿  UnitTest3.3-F.cpp
+F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Lab_3.3-F\Time.cpp(148,14): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Lab_3.3-F\Time.cpp(229,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\UnitTest3.3-F\UnitTest3.3-F.cpp(6,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+     Creating library F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Debug\UnitTest3.3-F.lib and object F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Debug\UnitTest3.3-F.exp
+  UnitTest3.3-F.vcxproj -> F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Debug\UnitTest3.3-F.dll

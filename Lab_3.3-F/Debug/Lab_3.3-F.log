@@ -1,0 +1,8 @@
+﻿  Bill_PB.cpp
+F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Lab_3.3-F\Bill_PB.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Bill_PR.cpp
+F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Lab_3.3-F\Bill_PR.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  main.cpp
+F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Lab_3.3-F\main.cpp(4,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Lab_3.3-F.vcxproj -> F:\ООП\Тема 3\Lab_3.3-F\Lab_3.3-F\Debug\Lab_3.3-F.exe
